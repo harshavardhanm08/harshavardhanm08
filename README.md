@@ -245,21 +245,6 @@
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-## 📊 GitHub Stats & Contribution Graph
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=HarshaVardhanM08&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" height="175" alt="GitHub Stats"/>
-  <img src="https://streak-stats.demolab.com?user=HarshaVardhanM08&theme=tokyonight&hide_border=true&background=0D1117" height="175" alt="GitHub Contribution Streak"/>
-</div>
-
-<br/>
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=HarshaVardhanM08&theme=tokyo-night&hide_border=true&bg_color=0D1117&area=true" width="98%" alt="GitHub Activity Graph"/>
-</div>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-
 ## 🎓 Certifications & 🥇 Achievements
 
 <table width="100%">
