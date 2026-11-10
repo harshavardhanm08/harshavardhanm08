@@ -11,7 +11,7 @@
 <p align="center">
   <a href="https://harsha-portfolio.pages.dev/"><img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"/></a>
   <a href="https://www.linkedin.com/in/harshavardhan-maradana/"><img src="https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin-white&logoColor=fff" alt="LinkedIn"/></a>
-  <a href="https://github.com/HarshaVardhanM08"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
+  <a href="https://github.com/harshavardhanm08"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
   <a href="https://leetcode.com/u/C8Pj37jMGX/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"/></a>
   <a href="https://www.codechef.com/users/harsha_812"><img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white" alt="CodeChef"/></a>
   <a href="mailto:harshavardhan.maradana08@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
@@ -117,7 +117,7 @@
         <li>💾 Local music storage using <b>IndexedDB</b> & <b>Web Audio API</b></li>
       </ul>
       <p align="center">
-        <a href="https://github.com/HarshaVardhanM08/harxora-vibez"><img src="https://img.shields.io/badge/💻_GitHub_Repo-181717?style=for-the-badge&logo=github&logoColor=white" alt="Harxora Vibez Repo"/></a>
+        <a href="https://github.com/harshavardhanm08/harxora-vibez"><img src="https://img.shields.io/badge/💻_GitHub_Repo-181717?style=for-the-badge&logo=github&logoColor=white" alt="Harxora Vibez Repo"/></a>
       </p>
     </td>
   </tr>
@@ -132,7 +132,7 @@
       </ul>
       <p align="center">
         <a href="https://public-issue-management-system.netlify.app/"><img src="https://img.shields.io/badge/🌐_Live_Website-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" alt="PIMS Live"/></a>
-        <a href="https://github.com/HarshaVardhanM08/PIMS-Public-Issue-Management-System"><img src="https://img.shields.io/badge/💻_GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="PIMS Repo"/></a>
+        <a href="https://github.com/harshavardhanm08/PIMS-Public-Issue-Management-System"><img src="https://img.shields.io/badge/💻_GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="PIMS Repo"/></a>
       </p>
     </td>
     <td width="50%" valign="top">
@@ -190,7 +190,7 @@
         <li>✨ Glowing animated neon interface</li>
       </ul>
       <p align="center">
-        <a href="https://github.com/HarshaVardhanM08/neon-tic-tac-toe-web-game"><img src="https://img.shields.io/badge/💻_GitHub_Repo-181717?style=for-the-badge&logo=github&logoColor=white" alt="Neon Tic Tac Toe"/></a>
+        <a href="https://github.com/harshavardhanm08/neon-tic-tac-toe-web-game"><img src="https://img.shields.io/badge/💻_GitHub_Repo-181717?style=for-the-badge&logo=github&logoColor=white" alt="Neon Tic Tac Toe"/></a>
       </p>
     </td>
     <td width="50%" valign="top">
@@ -201,7 +201,7 @@
         <li>🌦️ <b>Weather App:</b> Real-time city weather forecasts powered by the <b>OpenWeather API</b></li>
       </ul>
       <p align="center">
-        <a href="https://github.com/HarshaVardhanM08/2048-web-game"><img src="https://img.shields.io/badge/💻_2048_Repo-181717?style=for-the-badge&logo=github&logoColor=white" alt="2048 Game"/></a>
+        <a href="https://github.com/harshavardhanm08/2048-web-game"><img src="https://img.shields.io/badge/💻_2048_Repo-181717?style=for-the-badge&logo=github&logoColor=white" alt="2048 Game"/></a>
       </p>
     </td>
   </tr>
@@ -277,7 +277,7 @@
 ## 🌐 Connect With Me
 
 <p align="center">
-  <a href="https://github.com/HarshaVardhanM08">
+  <a href="https://github.com/harshavardhanm08">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
   <a href="https://www.linkedin.com/in/harshavardhan-maradana/">
